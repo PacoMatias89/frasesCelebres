@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Grand Paradise Hotel",
+        "place": "Playa del Carmen",
+        "roomType": "Doble",
+        "roomPrice": 550.0,
+        "disponibilityDateFrom": "2024-02-20",
+        "disponibilityDateTo": "2024-02-25"
+    },
+    {
+        "name": "Sunset View Resort",
+        "place": "Bali",
+        "roomType": "Individual",
+        "roomPrice": 450.0,
+        "disponibilityDateFrom": "2024-03-10",
+        "disponibilityDateTo": "2024-03-15"
+    },
+    {
+        "name": "Royal Plaza Inn",
+        "place": "New York",
+        "roomType": "Suite",
+        "roomPrice": 700.0,
+        "disponibilityDateFrom": "2024-04-05",
+        "disponibilityDateTo": "2024-04-10"
+    },
+    {
+        "name": "Mountain Retreat Lodge",
+        "place": "Aspen",
+        "roomType": "Doble",
+        "roomPrice": 600.0,
+        "disponibilityDateFrom": "2024-05-15",
+        "disponibilityDateTo": "2024-05-20"
+    },
+    {
+        "name": "Oceanfront Paradise Resort",
+        "place": "Maui",
+        "roomType": "Suite",
+        "roomPrice": 750.0,
+        "disponibilityDateFrom": "2024-06-01",
+        "disponibilityDateTo": "2024-06-07"
+    },
+    {
+        "name": "City Lights Hotel",
+        "place": "Paris",
+        "roomType": "Doble",
+        "roomPrice": 580.0,
+        "disponibilityDateFrom": "2024-07-10",
+        "disponibilityDateTo": "2024-07-15"
+    },
+    {
+        "name": "Riverside Retreat",
+        "place": "Kyoto",
+        "roomType": "Individual",
+        "roomPrice": 500.0,
+        "disponibilityDateFrom": "2024-08-05",
+        "disponibilityDateTo": "2024-08-10"
+    },
+    {
+        "name": "Golden Sands Resort",
+        "place": "Dubai",
+        "roomType": "Suite",
+        "roomPrice": 800.0,
+        "disponibilityDateFrom": "2024-08-15",
+        "disponibilityDateTo": "2024-09-10"
+    },
+    {
+        "name": "Majestic Mountain Lodge",
+        "place": "Rocky Mountains",
+        "roomType": "Doble",
+        "roomPrice": 620.0,
+        "disponibilityDateFrom": "2024-10-01",
+        "disponibilityDateTo": "2024-10-07"
+    },
+    {
+        "name": "Coastal Serenity Hotel",
+        "place": "Sydney",
+        "roomType": "Individual",
+        "roomPrice": 480.0,
+        "disponibilityDateFrom": "2024-11-10",
+        "disponibilityDateTo": "2024-11-15"
+    }
+]

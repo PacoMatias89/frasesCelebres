@@ -1,0 +1,52 @@
+[
+    {
+        "origin": "Zúrich",
+        "destination": "Londres",
+        "date": "2024-02-10"
+    },
+    {
+        "origin": "Barcelona",
+        "destination": "Nueva York",
+        "date": "2024-03-15"
+    },
+    {
+        "origin": "Tokio",
+        "destination": "Sídney",
+        "date": "2024-04-20"
+    },
+    {
+        "origin": "París",
+        "destination": "Roma",
+        "date": "2024-05-25"
+    },
+    {
+        "origin": "Los Ángeles",
+        "destination": "Tokio",
+        "date": "2024-06-30"
+    },
+    {
+        "origin": "Nueva Delhi",
+        "destination": "Pekín",
+        "date": "2024-08-05"
+    },
+    {
+        "origin": "Lima",
+        "destination": "Bogotá",
+        "date": "2024-09-10"
+    },
+    {
+        "origin": "Río de Janeiro",
+        "destination": "Ciudad de México",
+        "date": "2024-10-15"
+    },
+    {
+        "origin": "Toronto",
+        "destination": "Vancouver",
+        "date": "2024-11-20"
+    },
+    {
+        "origin": "Ámsterdam",
+        "destination": "Berlín",
+        "date": "2024-12-25"
+    }
+]
